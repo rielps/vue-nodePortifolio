@@ -1,6 +1,6 @@
 # 🚀 Nome do Projeto
 
-Uma aplicação web moderna desenvolvida com Vue.js, focada em performance, usabilidade e design intuitivo.
+Uma aplicação web desenvolvida com Vue.js, focada em performance, usabilidade e design intuitivo.
 
 ---
 
