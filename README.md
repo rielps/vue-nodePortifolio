@@ -53,7 +53,7 @@ npm run dev
 
 ## 📸 Preview
 
-*(adicione prints do projeto aqui)*
+
 
 ---
 
@@ -61,28 +61,15 @@ npm run dev
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 
-* Componentização no Vue
 * Gerenciamento de estado
 * Boas práticas de UI/UX
-* Estruturação de projetos frontend
 
 ---
 
 ## 📌 Melhorias futuras
 
-* Autenticação de usuários
 * Integração completa com backend
 * Deploy da aplicação
 * Otimizações de performance
 
----
 
-## 👨‍💻 Autor
-
-Desenvolvido por você 😄
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
