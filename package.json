@@ -1,0 +1,25 @@
+{
+  "name": "projeto_portif-lio",
+  "version": "1.0.0",
+  "description": "Projeto de um portifolio feito com Vue pro fronend e node pro backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rielps/Projeto_Portif-lio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rielps/Projeto_Portif-lio/issues"
+  },
+  "homepage": "https://github.com/rielps/Projeto_Portif-lio#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
