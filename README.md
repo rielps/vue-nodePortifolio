@@ -1,6 +1,6 @@
 # 🚀 Nome do Projeto
 
-Uma aplicação web moderna desenvolvida com Vue.js, focada em performance, usabilidade e design intuitivo.
+Uma aplicação web desenvolvida com Vue.js, focada em performance, usabilidade e design intuitivo.
 
 ---
 
@@ -53,16 +53,14 @@ npm run dev
 
 ## 📸 Preview
 
-*(adicione prints do projeto aqui)*
-
+![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 
-* Componentização no Vue
-* Gerenciamento de estado
 * Boas práticas de UI/UX
 * Estruturação de projetos frontend
 
@@ -75,14 +73,3 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
 * Deploy da aplicação
 * Otimizações de performance
 
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por você 😄
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
